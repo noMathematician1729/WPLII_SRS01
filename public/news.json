@@ -1,0 +1,30 @@
+[
+  {
+    "title": "India expands Earth-observation satellite network for faster climate insights",
+    "category": "Earth observation",
+    "date": "Aug 10, 2026",
+    "summary": "New satellite constellations are improving weather tracking, crop monitoring, and disaster response across the region.",
+    "link": "https://www.nasa.gov/"
+  },
+  {
+    "title": "Space agencies test autonomous satellite relay systems for deep-space missions",
+    "category": "Space technology",
+    "date": "Aug 8, 2026",
+    "summary": "Engineers are piloting smarter relay nodes that can route data between spacecraft without waiting for ground commands.",
+    "link": "https://www.esa.int/"
+  },
+  {
+    "title": "Orbital debris tracking grows stronger as commercial launches accelerate",
+    "category": "Orbital safety",
+    "date": "Aug 4, 2026",
+    "summary": "Improved tracking networks help operators avoid collisions and make low-Earth orbit traffic safer.",
+    "link": "https://www.spacex.com/"
+  },
+  {
+    "title": "Small satellites deliver real-time maritime and border monitoring",
+    "category": "Defense and logistics",
+    "date": "Aug 1, 2026",
+    "summary": "Compact satellite platforms are increasingly used for fast imaging, fleet tracking, and rapid situational awareness.",
+    "link": "https://www.esa.int/"
+  }
+]
